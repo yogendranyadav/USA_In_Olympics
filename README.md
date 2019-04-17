@@ -18,4 +18,5 @@ the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 individual athlete competing in an individual Olympic event (athlete-events). The columns are ID,
 Name, Sex, Age , Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event and
 Medal.
-     - The file noc_regions.csv contains 230 rows and 3 columns. The
+     - The file noc_regions.csv contains 230 rows and 3 columns. The columns are NOC (National
+Olympic Committee 3 letter code),Country name and Notes.
