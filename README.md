@@ -36,3 +36,14 @@ performed to reduce the number of missing values in the dataset.
 
 The aim here is to get the overall performance of USA in Olympics for Summer and Winter Seasons. Also understand, sports that were dominated by the USA over the years and that needs more attention by the country to improve their performance in the Olympics.
 
+## Findings:
+
+![alt tag](pie.png)
+- Summer Olympics:
+        Among the Top 10 countries with the highest number of medals, we see that USA ranks No 1 with the most number of medals won. It has achieved 24% of medals among the Top 10.
+
+- Winter Olympics:
+         Among the Top 10 countries, USA stands second place with 13.5% of medal won among the Top 10. In Winter Olympics, Russia stands on the Top with 16.1 % of medals won among the Top 10.
+
+
+
