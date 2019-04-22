@@ -21,7 +21,7 @@ Medal.
      - The file noc_regions.csv contains 230 rows and 3 columns. The columns are NOC (National
 Olympic Committee 3 letter code),Country name and Notes.
 
-## Data Preparation and Cleaning
+## Data Preparation and Cleaning:
 
 - By initial analysis, we found that Age, Height, Weight and Medals had lot of missing values. The
 column ‘Medal’ had 231333 missing values. This is fine because not all the participants can win a
@@ -31,3 +31,8 @@ region dataset based on their NOC values.
 - Problems – Some NOC present in the athlete events dataset does not associate to a country from the
 regions dataset. But we can easily add them manually based on their TEAM Name. This was
 performed to reduce the number of missing values in the dataset.
+
+## Research Question:
+
+The aim here is to get the overall performance of USA in Olympics for Summer and Winter Seasons. Also understand, sports that were dominated by the USA over the years and that needs more attention by the country to improve their performance in the Olympics.
+
