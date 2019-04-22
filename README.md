@@ -38,12 +38,67 @@ The aim here is to get the overall performance of USA in Olympics for Summer and
 
 ## Findings:
 
-![alt tag](pie.png)
-- Summer Olympics:
-        Among the Top 10 countries with the highest number of medals, we see that USA ranks No 1 with the most number of medals won. It has achieved 24% of medals among the Top 10.
 
-- Winter Olympics:
-         Among the Top 10 countries, USA stands second place with 13.5% of medal won among the Top 10. In Winter Olympics, Russia stands on the Top with 16.1 % of medals won among the Top 10.
+![alt tag](charts/pie.png)
 
+#### Summer Olympics:
+   Among the Top 10 countries with the highest number of medals, we see that USA ranks No 1 with the most number of medals won. It has achieved 24% of medals among the Top 10.
+
+#### Winter Olympics:
+   Among the Top 10 countries, USA stands second place with 13.5% of medal won among the Top 10. In Winter Olympics, Russia stands on the Top with 16.1 % of medals won among the Top 10.
+         
+         
+![alt tag](charts/line_chart.png)
+
+#### Summer Olympics:
+   There seems to be gradual increase in the medal count. This may be due to the increase in the number of events per year.
+
+#### Winter Olympics:
+   The performance of USA in the winter olympics have be good in the last four Olympics.
+   
+   
+   
+   
+   
+### Report on the sports and their medals achieved by USA - Summer Olympics
+
+
+![alt tag](charts/bar_summer.png)
+
+   #### **By the graph we can say that, USA has be dominating in Swimming, Rowing, Basketball and in most of the Athletics events.**
+   
+- #### No Medals were won for the below Sports:
+     - Trampolining
+     - Table Tennis
+     - Rugby Sevens
+     - Rhythmic Gymnastics
+     - Handball
+     - Badminton
+     
+- #### No Gold Medals were won for the below Sports:
+     - Modern Pentathlon
+     - Lacrosse
+     - Hockey
+     
+     
+     
+### Report on the sports and their medals achieved by USA - Winter Olympics
+
+![alt tag](charts/bar_winter.png)
+
+   #### **By the graph we can say that, USA has be dominating in Ice Hockey and Speed Skating..
+- #### No Medals won for the below Sports:**
+     - Biathlon
+     
+- #### No Gold Medals were won for the below Sports:
+     - Ski Jumping
+     - Luge
+     - Curling
+     - Cross Country Skiing
+     
+ 
+## Conclusion:
+
+![alt tag](charts/Conclusion.png)
 
 
